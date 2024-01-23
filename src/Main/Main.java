@@ -1,5 +1,4 @@
 // ALKIN KORKUT Pushdown Automata
-// CS410 - Project_2
 
 package Main;
 import Algorithm.PDA;
